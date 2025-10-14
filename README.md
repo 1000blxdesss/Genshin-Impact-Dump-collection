@@ -2,4 +2,3 @@ EN: If for some reason you want to see the updated Genshin Impact dump, then lea
 
 RU: Если по какой-то причине вы хотите увидеть обновленный дамп Genshin Impact, то оставьте запрос в разделе "проблема", и я опубликую новый dump.cs
 
-Cheat for genshin impact
